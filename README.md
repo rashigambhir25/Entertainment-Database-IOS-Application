@@ -18,6 +18,6 @@ The Entertainment Database iOS Application allows users to search for movies, ex
 
 -- Language: Swift
 
--- Framework: UIKit (or SwiftUI if applicable)
+-- Framework: UIKit
 
 -- API Integration: The app fetches movie data from an external movie database API.
